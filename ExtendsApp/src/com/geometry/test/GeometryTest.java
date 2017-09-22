@@ -8,6 +8,11 @@ import com.geometry.main.ETriangle;
 import com.geometry.main.Rectangle;
 
 
+/**
+ * Test de las geometrias 
+ * @author Administrador CIFO
+ *
+ */
 public class GeometryTest {
 	
 	
